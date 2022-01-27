@@ -6,7 +6,7 @@
 /*   By: coder <coder@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/27 18:51:27 by gtsurush          #+#    #+#             */
-/*   Updated: 2022/01/27 22:55:57 by coder            ###   ########.fr       */
+/*   Updated: 2022/01/27 22:58:40 by coder            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,4 +15,5 @@
 int	main(void)
 {
 	printf("Hello World\n");
+	// git push -u origin main
 }
